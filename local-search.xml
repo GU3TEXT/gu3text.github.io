@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/09/02/hello-world/"/>
+    <url>/2023/09/02/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>美研究者称首次完全破译人类Y染色体</title>
+    <link href="/2023/08/26/Y/"/>
+    <url>/2023/08/26/Y/</url>
+    
+    <content type="html"><![CDATA[<h1 id="美研究者称首次完全破译人类Y染色体"><a href="#美研究者称首次完全破译人类Y染色体" class="headerlink" title="美研究者称首次完全破译人类Y染色体"></a>美研究者称首次完全破译人类Y染色体</h1><p>人类Y染色体是决定男性性别的遗传物质，也是人类基因组中最难破译的部分之一。近日，美国国家人类基因组研究所宣布，他们已经完全测序了人类Y染色体的所有基因，揭示了它的复杂性和多样性。这是科研人员首次完成对Y染色体的全部基因测序，研究报告刊载于23日出版的英国《自然》杂志。</p><p>Y染色体是人类基因组中最小的染色体，只有约6000万个碱基对，占整个基因组的0.2%。然而，它也是最难测序的染色体，因为它包含了大量的重复序列和回文序列，这些序列会干扰测序仪器的读取。此外，Y染色体也是最快变化的染色体，因为它只存在于男性身上，每次遗传时都会发生一些突变。</p><p>研究报告作者之一、加利福尼亚大学圣克鲁斯分校生物工程教授卡伦·米加说，先前研究只完成Y染色体不到一半长度的基因测序，这次研究终于完全破译了这条染色体的基因密码。</p><p>为了完全破译Y染色体，研究团队使用了一种称为长读取测序的技术，它可以读取更长的DNA片段，从而避免重复序列和回文序列的影响。他们从1000多名来自不同地区和种族的男性中收集了血液样本，并对他们的Y染色体进行了测序。同时借助纳米孔测序、高保真图像等先进技术和人工智能软件，进行大量数据分析，终于完成了对Y染色体的全部基因测序。最终成功地测出了Y染色体上所有的基因和变异，共计约1.2万个。</p><p>这项研究不仅为人类基因组计划提供了一个重要的补充，也为人类历史和进化提供了新的线索。通过分析Y染色体上的变异，研究者可以追溯男性祖先的起源和迁徙路线，以及他们与其他人群的交流和混合。此外，Y染色体上的基因也与一些男性特有的疾病有关，如不育症、前列腺癌等。通过完全破译Y染色体，研究者可以更好地理解这些疾病的发生机制和治疗方法。</p><p>总之，这项研究是对人类基因组学领域的一个重大突破，也是对人类自身认知的一个重要进步。它展示了Y染色体的奥秘和魅力，也为未来的科学探索和医学应用提供了新的可能性。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>新闻</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>新闻</tag>
+      
+      <tag>生物</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我国掌握可控核聚变高约束先进控制技术</title>
+    <link href="/2023/08/26/%E6%A0%B8%E8%81%9A%E5%8F%98/"/>
+    <url>/2023/08/26/%E6%A0%B8%E8%81%9A%E5%8F%98/</url>
+    
+    <content type="html"><![CDATA[<h1 id="我国掌握可控核聚变高约束先进控制技术"><a href="#我国掌握可控核聚变高约束先进控制技术" class="headerlink" title="我国掌握可控核聚变高约束先进控制技术"></a>我国掌握可控核聚变高约束先进控制技术</h1><p>8月25日下午，新一代人造太阳“中国环流三号”取得重大科研进展，首次实现100万安培等离子体电流下的高约束模式运行，再次刷新我国磁约束聚变装置运行纪录，突破了等离子体大电流高约束模式运行控制、高功率加热系统注入耦合、先进偏滤器位形控制等关键技术难题，是我国核聚变能开发进程中的重要里程碑，标志着我国磁约束核聚变研究向高性能聚变等离子体运行迈出重要一步。</p><p><img src="https://raw.githubusercontent.com/GU3TEXT/pic/master/img/647.jpg"></p><p>为实现聚变能源，需要提升等离子体综合参数至聚变点火条件。磁约束核聚变中的高约束模式（H模）是一种典型的先进运行模式，被选为正在建造的国际热核聚变试验堆（ITER）的标准运行模式，能够有效提升等离子体整体约束性能，提升未来聚变堆的经济性，相较于普通的运行模式，其等离子体综合参数可提升数倍。</p><p><img src="https://raw.githubusercontent.com/GU3TEXT/pic/master/img/650.jpg"></p><p>可控核聚变作为面向国家重大需求的前沿颠覆性技术，具有资源丰富、环境友好、固有安全等突出优势，是目前认识到的能够最终解决人类能源问题的重要途径之一，对我国经济社会发展、国防工业建设具有重要战略意义。可控核聚变是我国核能发展“热堆—快堆—聚变堆”三步走战略体系的重要组成部分，是解决国家能源需求、助推“双碳”目标实现、促进能源新体系构建和保障国家能源安全的关键科技变量。</p><p>在实现百万安培等离子体电流高约束模式运行的基础上，新一代人造太阳“中国环流三号”团队，将进一步发展高功率加热和电流驱动、等离子体先进运行控制等核心技术，实现堆芯级等离子体运行，研究前沿聚变物理，为我国开展聚变燃烧实验、自主建造聚变堆奠定坚实基础。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>新闻</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>新闻</tag>
+      
+      <tag>物理</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
